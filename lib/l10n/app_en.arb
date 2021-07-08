@@ -1,0 +1,45 @@
+{
+    "home_page_greetings": "Hi,",
+    "home_page_notifications": "You have x notifications",
+    "home_page_services_title": "Services",
+    "home_page_highlights_title": "Highlights",
+    "home_page_history_title": "History",
+
+    "profile_page_setting_title": "Settings",
+    "profile_page_setting_change_password": "Change Password",
+    "profile_page_setting_linking_account": "Linking Account",
+    "profile_page_setting_tab_customization": "Tab Customization",
+    "profile_page_setting_membership": "Membership",
+    "profile_page_setting_change_language": "Change Language",
+    "profile_page_shop_title": "Shops",
+    "profile_page_highlight_product_title": "Recommended Products",
+    "profile_page_logout_button": "Sign Out",
+
+    "login_page_greeting_title": "Welcome Back!",
+    "login_page_username_label": "Username",
+    "login_page_username_placeholder": "Enter your username",
+    "login_page_password_label": "Password",
+    "login_page_password_placeholder": "Enter your password",
+    "login_page_forgot_password":"Forgot your password?",
+    "login_page_or_sign_in":"or Sign In with",
+    "login_page_sign_up":"Don't have an account? Sign Up here",
+    "login_page_button": "Sign In",
+
+    "signup_title": "Sign Up",
+    "signup_first_name_label": "First Name",
+    "signup_last_name_label": "Last Name",
+    "signup_email_label": "Email",
+    "signup_username_label": "Username",
+    "signup_password_label": "Password",
+    "signup_confirm_password_label": "Confirm Password",
+    "signup_button": "Sign Up",
+    "signup_signin": "Already have an account? Sign In here",
+
+    "verification_page_title": "Verification Code",
+    "verification_page_description": "We have sent the verification code to your email address",
+    "verificatioin_page_count_down": "Resend Code (X seconds)",
+    "verification_page_resend_code": "Resend Code",
+    "verification_page_submit_button": "Submit",
+
+    "validation_not_empty":"Cannot be empty"
+}

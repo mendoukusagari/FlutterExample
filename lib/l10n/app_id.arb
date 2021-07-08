@@ -1,0 +1,45 @@
+{
+    "home_page_greetings": "Hai,",
+    "home_page_notifications": "Kamu memiliki x notifikasi",
+    "home_page_services_title": "Layanan",
+    "home_page_highlights_title": "Sorotan",
+    "home_page_history_title": "Riwayat",
+
+    "profile_page_setting_title": "Pengaturan",
+    "profile_page_setting_change_password": "Ganti Password",
+    "profile_page_setting_linking_account": "Sambungkan Akun",
+    "profile_page_setting_tab_customization": "Kustomasi Tab",
+    "profile_page_setting_membership": "Keanggotaan",
+    "profile_page_setting_change_language": "Ganti Bahasa",
+    "profile_page_shop_title": "Toko",
+    "profile_page_highlight_product_title": "Produk Rekomendasi",
+    "profile_page_logout_button": "Keluar Akun",
+
+    "login_page_greeting_title": "Selamat Datang!",
+    "login_page_username_label": "Username",
+    "login_page_username_placeholder": "Masukan username anda",
+    "login_page_password_label": "Kata Sandi",
+    "login_page_password_placeholder": "Masukan kata sandi anda",
+    "login_page_forgot_password":"Lupa kata sandi anda?",
+    "login_page_or_sign_in":"atau Masuk dengan",
+    "login_page_sign_up":"Tidak punya akun? Daftar di sini",
+    "login_page_button": "Masuk",
+
+    "signup_title": "Daftar",
+    "signup_first_name_label": "Nama Pertama",
+    "signup_last_name_label": "Nama Terakhir",
+    "signup_email_label": "Email",
+    "signup_username_label": "Username",
+    "signup_password_label": "Kata Sandi",
+    "signup_confirm_password_label": "Konfirmasi Kata Sandi",
+    "signup_button": "Daftar",
+    "signup_signin": "Sudah punya akun? Masuk di sini",
+
+    "verification_page_title": "Kode Verifikasi",
+    "verification_page_description": "Kami telah mengirimkan kode verifikasi ke email anda",
+    "verificatioin_page_count_down": "Kirim ulang kode (X detik)",
+    "verification_page_resend_code": "Kirim ulang kode",
+    "verification_page_submit_button": "Kirim",
+
+    "validation_not_empty":"Tidak boleh kosong"
+}
